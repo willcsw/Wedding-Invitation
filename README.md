@@ -8,7 +8,7 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://nataliespwillcsw.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://nataliespwillcsw.netlify.app/"><img src="./assets/img/natalie.png" /></a>
 </details>
 
 With the divine grace of the almighty,
