@@ -8,10 +8,16 @@
   }}();
 </script>
     
-(function ($) {
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="path/to/jquery.sakura.js"></script>
+<script>
+  (function($) {
     "use strict";
+    $(document).ready(function() {
       $('.sakura-falling').sakura();
-})(jQuery);
+    });
+  })(jQuery);
+</script>
 
 /**
  *
